@@ -12,6 +12,8 @@ Requirements
 ------------
 
 RHEL 7. Other versions are not supported.
+package `grub2-tools` you can install it via `yum install grub2-tools`
+`passlib` python library, you can install it via `pip install passlib`
 
 Role Variables
 --------------
